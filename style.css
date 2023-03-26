@@ -1,0 +1,32 @@
+
+   body{
+     margin: 0;
+    padding: 0;
+     background-image :url(download.jpg); 
+     background-position: center;
+     background-size: cover;
+    }
+
+    .container {
+        border: 50px  cornflowerblue;
+        color: azure;
+        position: relative;
+        top: 90%;
+        left: 50%;
+     }
+     .container h1{
+       font-size: 50px;
+       border-bottom: 5px chocolate;
+       margin-bottom: 34px;
+       padding: 13px 0;
+     }
+     .box{
+        width: 100%;
+        border: 1px crimson;
+     }
+     .box input{
+        width: 80%;
+        border: none;
+        outline: none;
+        color: white;
+    }
